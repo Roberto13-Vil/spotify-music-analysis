@@ -35,7 +35,7 @@ Este proyecto aborda el análisis de datos de canciones en plataformas de stream
 - Los resultados sugieren que el modelos mejor apto para los datos es de Redes Neuronales.
 
 ## Requisitos
-- Python 3.x
+- Python 3.12.2
 - Librerías: pandas, numpy, scikit-learn, matplotlib, seaborn, etc.
 - Archivos de datos (https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data).
 
